@@ -1,0 +1,41 @@
+
+*{
+    background-color: blanchedalmond;
+}
+.countainer{
+background-color: ivory;
+    display: block;
+    justify-content: center;
+    align-items: center;
+  justify-self: center
+  ;
+margin:20px;
+padding: 10px;
+    border: 10px solid blanchedalmond;
+overflow: scroll;
+
+}
+ .text{
+     background-color: ivory;
+     display:block;
+     font-family: 'Galada', cursive;
+     border-radius: 6px;
+ }
+.h1{
+    font-family: 'Galada', cursive;
+}
+.h4{
+    font-family: 'Galada', cursive;
+}
+.h5{font-family: 'Galada', cursive;}
+
+p{
+    background-color: ivory;
+    font-family: 'Galada', cursive;
+}
+
+.button{padding: 10px;
+    font-family: 'Galada', cursive;
+    border:  1px solid;
+    border-radius: 10px;
+}
